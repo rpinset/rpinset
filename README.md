@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Consultant et développeur Odoo, ancien comptable : je parle à la fois finance et code</em><br>
-  Fondateur de <a href="https://www.ropi-it.fr">RoPi IT Solutions</a>, intégrateur Odoo
+  Fondateur de <a href="https://www.ropi-it.fr/r/wQh">RoPi IT Solutions</a>, intégrateur Odoo
 </p>
 
 ---
@@ -27,5 +27,5 @@ Python, Odoo / OpenERP, PostgreSQL, XML / QWeb, JavaScript (OWL), Docker, Git
 - Facturation électronique France
 
 ### Me contacter
-- Site : https://www.ropi-it.fr
+- Site : https://www.ropi-it.fr/r/wQh
 - LinkedIn : https://www.linkedin.com/in/romaric-pinset-lepretre-odoo/
